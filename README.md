@@ -1,4 +1,6 @@
-# Exploratory data analysis on the House sales in the King County dataset. The dataset is publicly available at [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). To simulate a world case scenario. Different stakeholders with individual requirements were previous established by the Neuefische team. In this analysis I simulated a realtor company who conducted the EDA to fulfill the needs of a fictional investor named Timothy Stevens. Mr Stevens sells houses and is interested in putting his investments in the market. He owns expensive houses in the county center, which are the analysis target. The best timing for him is within a year. He is open for renovation if profits rise with it. 
+# Exploratory data analysis on the House sales in the King County dataset. 
+
+At the Neuefische bootcamp, the EDA work was performed to the House sales in the King County dataset. The dataset is publicly available at [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). To simulate a world case scenario. Different stakeholders with individual requirements were previous established by the Neuefische team. In this analysis I simulated a realtor company who conducted the EDA to fulfill the needs of a fictional investor named Timothy Stevens. Mr Stevens sells houses and is interested in putting his investments in the market. He owns expensive houses in the county center, which are the analysis target. The best timing for him is within a year. He is open for renovation if profits rise with it. 
 
 
 
