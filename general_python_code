@@ -1,6 +1,0 @@
-#df_rcpa['condition'] = df_rcpa['condition'].factorize([0]) # Condition is a category
-#df_rcpa
-
-df_rcpa['f_condition'],newName = pd.factorize(df_rcpa['condition'])
-
-df_rcpa['f_condition'] = df_rcpa['condition'].apply(lambda x: int(x))
